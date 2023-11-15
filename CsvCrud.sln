@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CsvCrud", "CsvCrud.vcxproj", "{95768646-BBA3-4CD3-B1F3-2E815CDFA7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95768646-BBA3-4CD3-B1F3-2E815CDFA7FF}.Debug|x64.ActiveCfg = Debug|x64
+		{95768646-BBA3-4CD3-B1F3-2E815CDFA7FF}.Debug|x64.Build.0 = Debug|x64
+		{95768646-BBA3-4CD3-B1F3-2E815CDFA7FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{95768646-BBA3-4CD3-B1F3-2E815CDFA7FF}.Debug|x86.Build.0 = Debug|Win32
+		{95768646-BBA3-4CD3-B1F3-2E815CDFA7FF}.Release|x64.ActiveCfg = Release|x64
+		{95768646-BBA3-4CD3-B1F3-2E815CDFA7FF}.Release|x64.Build.0 = Release|x64
+		{95768646-BBA3-4CD3-B1F3-2E815CDFA7FF}.Release|x86.ActiveCfg = Release|Win32
+		{95768646-BBA3-4CD3-B1F3-2E815CDFA7FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEBD5DC7-3B28-4F28-AA7C-04660C3BEE08}
+	EndGlobalSection
+EndGlobal
