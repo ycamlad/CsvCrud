@@ -1,0 +1,3 @@
+﻿  CSVDataManager.cpp
+C:\Users\chris\source\repos\CsvCrud\CSVDataManager.cpp(10,15): warning C4834: discarding return value of function with 'nodiscard' attribute
+  CsvCrud.vcxproj -> C:\Users\chris\source\repos\CsvCrud\Debug\CsvCrud.exe
